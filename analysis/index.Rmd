@@ -8,4 +8,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to my first workflowr website! Shout out to Graham Smith for all the troubleshooting help.
+[Link to Annie's Website!](https://anniecgreene.github.io/myproject/)
+
+Below is the link to my analysis for the R-provided teeth growth data.
+
+[Teeth growth analysis](teeth.html)
